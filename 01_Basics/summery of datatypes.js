@@ -33,3 +33,14 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
+
+
+// STACK (primitive)  ,HEAP (non premitive)
+ let mycollegename = "GITA BHUBANESWARE"
+  let anothername =  GITA BBSR
+  anothername = "autonomous"
+
+  console.log(mycollegename);
+  console.log(anothername);
